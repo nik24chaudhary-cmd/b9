@@ -1,0 +1,6 @@
+{
+  "name": "Bottega9",
+  "description": "Bottega9 is an ultra-premium, high-end minimalist furniture and interior Atelier. Customize architectural bespoke furniture pieces, design your own virtual living space, and schedule personal styling consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
